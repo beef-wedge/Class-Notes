@@ -1,5 +1,4 @@
-### Fiction
-
+## Fiction
 - Fiction is a type of prose writing (ordinary sentences and paragraphs) that tells about imaginary characters, events or settings (or any combination of those)
 - (sub) Genres include:
 	- Mystery
@@ -11,11 +10,8 @@
 	- Point of view
 	- Characters
 	- Made up elements
-
 ---
-
-### Non-Fiction
-
+## Non-Fiction
 - Non-fiction tells of true events, uses real facts or events or tries to prove something
 - (sub) Genres include:
 	- Essays
@@ -26,5 +22,4 @@
 	- Textbooks
 	- Reference books
 - Characterized by its foundation in fact and reality
-
 ---
