@@ -3,4 +3,4 @@
 [[Email Notes]]
 
 ### MS Word Unit
-[[Tech/Intro to Tech/Word Notes]]
+[[Word Notes]]

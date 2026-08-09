@@ -9,7 +9,7 @@
 ---
 ### Writing
 
-[[Common errors in writing]]
+[[MLA Format + 'Fix It or Else']]
 [[Essay Formatting Example]]
 [[Pre-Writing Strategies]]
 [[Pronoun unit (IXL EE)]]
