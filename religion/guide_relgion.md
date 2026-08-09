@@ -1,4 +1,3 @@
 ## Foundations of Catholicism
-### Chapter 6/The Church
-[[Pg 165 Review]]
-[[Pg 172 Review]]
+
+#### Very little notes are taken in this class, anything I could include would be completed assignments

@@ -13,13 +13,13 @@ It is recommended to use Obsidian to view the notes. There are links in many fil
 - To install Obsidian, go to https://obsidian.md/download and follow their download instructions
 - To add the repo, clone it to your desired directory
 	- If you don't know what that means, follow:
-		[this](https://github.com/Eric-Ward475/Class-Notes/blob/main/gen.%20info/cloning%20the%20repo.md)
+		[this](https://github.com/beef-wedge/Class-Notes/blob/main/gen.%20info/cloning%20the%20repo.md)
 	- (obsidian link: [[cloning the repo]])
 - Open the folder as a vault in Obsidian
 	- Click 'Open folder as vault' and select either the cloned repo's folder or where you extracted the .zip
 - Done!
 - If you used GH Desktop, make sure to update the locally stored files every time you use them, as they are updated almost every day, sometimes multiple times per day
-- If you used any manual methods, be sure to redownload, if something you need is online but not on your computer
+- If you used any manual methods, be sure to re-download, if something you need is online but not on your computer
 ## Option 2 (Less tech required)
 This is not recommended, because no links within the notes will work. You can still use them, but some benefits may be lost.
 
@@ -35,11 +35,10 @@ This is not recommended, because no links within the notes will work. You can st
 		- I will add them to the repo, and credit you for your submission
 			- You can also create a Pull Request on GitHub, if you are able to (preferred)
 		- I ask that submissions are sent directly to me, to avoid conflict
-		- All notes must be typed in valid markdown format, and AI may not be directly used, meaning that any submissions must be essentially hand typed, although using AI to summarize text IS allowed.
+		- All notes must be typed in valid markdown format, and AI may not be directly used, meaning that any submissions must be essentially hand typed, although using AI to summarize text IS allowed, as long as the information is factual.
 	- Suggesting features, topics or anything else to me directly
 - You can support by:
 	- Informing others of the repository
-	- Small donations (I legitimately do not want your money, most of any proceeds would go directly to other contributors
 - Content requests can be completed either by contacting me directly or by creating an Issue on GitHub
 
 **If you are familiar with the Pull Request system on Github, please use that instead of other methods**
