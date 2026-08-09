@@ -95,14 +95,10 @@
             "id": "d02bd267e08776d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           },
           {
@@ -164,7 +160,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -292,7 +290,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d02bd267e08776d0",
+  "active": "e45a1adf6a5f8347",
   "lastOpenFiles": [
     "English/English 1H/Non Fiction Unit/On Summer.md",
     "English/English 1H/Short Stories/The Gift of the Magi.md",
