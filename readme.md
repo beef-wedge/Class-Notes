@@ -4,6 +4,8 @@ Any review questions that are graded will not be posted until after the due date
 
 **Notes for English novels will NOT be included, it is too time consuming for me to do alone, although if someone could provide notes, I would add them in**
 
+## Soon, I will be switching my notes to a different format, called Typst. It is a more feature packed alternative to markdown. Additionally, I will be publishing those more advanced notes on a website, along with the ones already written in markdown.
+
 ---
 # Setup
 ***There are 2 options for set up***
